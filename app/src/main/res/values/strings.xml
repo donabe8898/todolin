@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ht21a021_repo01</string>
+    <string name="capTitle">表題</string>
+    <string name="capMemo">メモ</string>
+    <string name="capSave">保存</string>
+    <string name="capAdd">追加</string>
+    <string name="capDel">削除</string>
+
+</resources>
